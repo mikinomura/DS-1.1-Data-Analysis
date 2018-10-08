@@ -27,7 +27,7 @@ Utilize statistical techniques to calculate z-scores and confidence intervals, p
 |   8   | Thursday, September 20 | NPS Project Data Analysis Presentations |
 |   9   |  Tuesday, September 25 | [Hypothesis Testing & Acceptable Error] |
 |  10   | Thursday, September 27 | [Confidence Intervals & Outliers] |
-|  11   |  Tuesday, October 2    | [Statistical Distributions Continued] |
+|  11   |  Tuesday, October 2    | [Statistical Analysis] |
 |  12   | Thursday, October 4    | [Time Series Data & Applications] |
 |       |  Tuesday, October 9    | *No Class (Indigenous Peoples' Day)* |
 |  13   | Thursday, October 11   | Custom Project Presentations |
@@ -40,7 +40,7 @@ Utilize statistical techniques to calculate z-scores and confidence intervals, p
 [Normal Distribution, CLT & Z-Scores]: Lessons/NormalDistribution.md
 [Hypothesis Testing & Acceptable Error]: Lessons/HypothesisTesting.md
 [Confidence Intervals & Outliers]: Lessons/ConfidenceIntervals.md
-[Statistical Distributions Continued]: Lessons/StatisticalDistributions2.md
+[Statistical Analysis]: Lessons/StatisticalAnalysis.md
 [Time Series Data & Applications]: Lessons/TimeSeriesData.md
 
 
